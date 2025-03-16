@@ -1,0 +1,23 @@
+# Data files (too large for GitHub)
+Data/raw/*.json
+Data/raw/*.jsonl
+Data/processed/*.csv
+
+# Embeddings (too large for GitHub)
+Embeddings/*/*.npy
+
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS specific
+.DS_Store
