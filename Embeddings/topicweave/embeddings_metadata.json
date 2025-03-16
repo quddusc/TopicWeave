@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-03-16 15:09:05",
+  "scibert_model": "allenai/scibert_scivocab_uncased",
+  "scibert_weight": 0.7000000000000001,
+  "citation_model_weight": 0.29999999999999993,
+  "num_documents": 45655,
+  "embedding_dimension": 768,
+  "categories": [
+    "cs.AI",
+    "q-bio.QM",
+    "cs.LG",
+    "physics.comp-ph",
+    "cs.CL",
+    "cs.CV",
+    "stat.ML",
+    "math.ST",
+    "cs.DL",
+    "q-fin.ST"
+  ],
+  "max_seq_length": 256,
+  "distilled_layers": 6
+}
