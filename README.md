@@ -23,13 +23,19 @@ These complementary embeddings are combined through an optimized weighted ensemb
 TopicWeave/
 ├── Notebooks/                 # Jupyter notebooks for experiments and analysis
 │   ├── bertopic_baseline.ipynb         # Baseline BERTopic implementation
-│   └── topicweave_distillation.ipynb     # Model distillation and embedding generation
+│   └── topicweave_distillation.ipynb   # Model distillation and embedding generation
 │
 ├── Data/                      # Data storage
 │   ├── raw/                   # Original arXiv dataset
 │   └── processed/             # Preprocessed data
+│
 └── Embeddings
 │   └── topicweave/            # TopicWeave ensemble embeddings
+│
+└── Papers
+│   └── Final/                 # Final project paper
+│   └── Milestone/             # Project milestone report
+│
 └── README.md                  # Project documentation
 ```
 
