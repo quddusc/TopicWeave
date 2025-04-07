@@ -1,2 +1,0 @@
-Optimal SciBERT weight: 0.2000
-Optimal SPECTER weight: 0.8000
